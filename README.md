@@ -1,2 +1,7 @@
 # Mental-Health-Support
-The Mental Health Support Bot is an AI chatbot that provides emotional support, and mood tracking using NLP and sentiment analysis. It helps users manage stress and anxiety while offering crisis support when needed.
+This project presents an intelligent chatbot assistant designed to support mental health conversations. Built using Google's Gemini API, Natural Language Processing (NLP) techniques, and multiple mental health-related datasets, the chatbot provides empathetic and supportive responses based on user input.
+## Features
+- Integrates multiple datasets covering mental health discussions, suicide prevention, and workplace mental health.
+- Performs data cleaning, exploratory analysis, and text preprocessing.
+- Implements a conversational AI assistant capable of responding to mental health inquiries.
+- Utilizes Google Generative AI (Gemini) and LangGraph for managing conversation state and response generation.
